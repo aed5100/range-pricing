@@ -5,8 +5,8 @@
  */
 package UserInterface.Main;
 
-import MarketingManagement.MarketingPersonDirectory;
-import MarketingManagement.MarketingPersonProfile;
+import TheBusiness.MarketingManagement.MarketingPersonDirectory;
+import TheBusiness.MarketingManagement.MarketingPersonProfile;
 import TheBusiness.Business.Business;
 import TheBusiness.CustomerManagement.CustomerDirectory;
 import TheBusiness.CustomerManagement.CustomerProfile;

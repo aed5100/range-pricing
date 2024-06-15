@@ -5,7 +5,7 @@
  */
 package TheBusiness.Business;
 
-import MarketingManagement.MarketingPersonDirectory;
+import TheBusiness.MarketingManagement.MarketingPersonDirectory;
 import TheBusiness.MarketModel.ChannelCatalog;
 import java.util.ArrayList;
 import TheBusiness.CustomerManagement.CustomerDirectory;

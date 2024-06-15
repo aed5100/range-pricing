@@ -7,7 +7,7 @@ package TheBusiness.OrderManagement;
 
 import java.util.ArrayList;
 import TheBusiness.CustomerManagement.CustomerProfile;
-import MarketingManagement.MarketingPersonProfile;
+import TheBusiness.MarketingManagement.MarketingPersonProfile;
 import TheBusiness.SalesManagement.SalesPersonProfile;
 
 /**

@@ -5,7 +5,7 @@
  */
 package UserInterface.Main;
 
-import MarketingManagement.MarketingPersonProfile;
+import TheBusiness.MarketingManagement.MarketingPersonProfile;
 import TheBusiness.Business.Business;
 import TheBusiness.Personnel.EmployeeProfile;
 import TheBusiness.Personnel.Profile;

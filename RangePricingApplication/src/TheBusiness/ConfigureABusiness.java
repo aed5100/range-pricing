@@ -5,8 +5,8 @@
  */
 package TheBusiness;
 
-import MarketingManagement.MarketingPersonDirectory;
-import MarketingManagement.MarketingPersonProfile;
+import TheBusiness.MarketingManagement.MarketingPersonDirectory;
+import TheBusiness.MarketingManagement.MarketingPersonProfile;
 import TheBusiness.Business.Business;
 import TheBusiness.MarketModel.ChannelCatalog;
 import TheBusiness.CustomerManagement.CustomerDirectory;

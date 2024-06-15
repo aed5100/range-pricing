@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package MarketingManagement;
+package TheBusiness.MarketingManagement;
 
 import java.util.ArrayList;
 import TheBusiness.OrderManagement.Order;
